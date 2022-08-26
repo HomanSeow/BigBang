@@ -1,0 +1,26 @@
+{
+  "name": "bigbang-app",
+  "version": "1.0.0",
+  "description": "App that prints 'BIG' if number is divisible 3, prints 'BANG' if number is divisible 5 and prints 'BIGBANG' if number is divisible 3 and 5 for numbers 1-100",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HomanSeow/BigBang.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HomanSeow/BigBang/issues"
+  },
+  "homepage": "https://github.com/HomanSeow/BigBang#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
