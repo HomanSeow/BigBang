@@ -12,7 +12,11 @@ The output is then written to a file called *'output.json'*.
 ```
 $ cd {file path name}
 ```
- 3. Run the program
+3. Install the project dependencies
+```
+$ npm install
+```
+ 4. Run the program
  ```
  $ npm start
  ```
